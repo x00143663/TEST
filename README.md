@@ -1,15 +1,14 @@
-# NuaLang
+# Google-Maps-Safest-Route
 This repository contains overview documentation and project management materials
-for the *nualang* product.
+for the *Google Maps Safest Route* product.
 #### In this README
 - [Product Overview](#product-overview)
 - [Architecture Description](#architecture-description)
 - [Deveoper Guide](#developer-guide)
 ## Product Overview
-*nualang* is a product to help both students and teachers of foreign languages.
-The product is used by students, teachers and adminstrators. Because one person
-can act s each of these different classes of user at different times, we have not
-created separate applications for each user type.
+*Google Maps Safest Route* is a product to help users to display dangerous point on the map and find the distance betwen a provided address and all that dangerous zones.
+The product is used by users whitout necesity of sign in so, we have not
+created separate applications for diferent user type.
 ## Architecture Description
 ### API First Approach
 All functionality of the system will be implemented using an API first approach. Back end functionality
