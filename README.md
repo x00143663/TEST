@@ -1,4 +1,4 @@
-# Google-Maps-Safest-Route
+# Google Maps Safest Route
 This repository contains overview documentation and project management materials
 for the *Google Maps Safest Route* product.
 #### In this README
